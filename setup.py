@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setuptools.setup(
     name='matplotlib-tuda',
-    version='0.0.1',
+    version='0.0.2',
     author='Fabian Damken',
     author_email='fabian.damken@frisp.org',
     description='Small package to add the corporate colors of the TU Darmstadt to Matplotlib.',
